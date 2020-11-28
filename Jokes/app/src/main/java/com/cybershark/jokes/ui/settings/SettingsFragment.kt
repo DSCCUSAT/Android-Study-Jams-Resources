@@ -68,7 +68,7 @@ class SettingsFragment : PreferenceFragmentCompat() {
         findPreference<Preference>("deleteFavorites")?.setOnPreferenceClickListener {
             MaterialAlertDialogBuilder(requireContext())
                 .setTitle("Remove all favorites?")
-                .setMessage("This is aan irreversible action")
+                .setMessage("This is an irreversible action")
                 .setPositiveButton("Confirm") { dialog, _ ->
                     deleteAllJokes()
                     dialog.dismiss()
