@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="dice_images">Dice Images</string>
+    <string name="roll">Roll</string>
+    <string name="enter_favorite_number_here">Enter Favorite Number here</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Jokes</string>
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_settings">Settings</string>
+    <string name="joke_hint">Click to generate a new joke!</string>
+    <string name="get_joke">Get Joke</string>
+    <string name="fav_jokes_hint">Add jokes as favorite to see them here!</string>
+</resources>

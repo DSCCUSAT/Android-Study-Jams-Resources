@@ -1,0 +1,33 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <PreferenceCategory app:title="Theme">
+
+        <SwitchPreferenceCompat
+            app:icon="@drawable/ic_theme"
+            app:key="darkTheme"
+            app:title="Dark Theme" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="Data">
+        <Preference
+            app:icon="@drawable/ic_delete"
+            app:key="deleteFavorites"
+            app:summary="Delete all the saved jokes from your device."
+            app:title="Delete Favorites" />
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="About">
+
+        <Preference
+            app:icon="@drawable/ic_info"
+            app:key="aboutInfo"
+            app:title="Jokes App"
+            tools:summary="v1.0" />
+        <Preference
+            app:icon="@drawable/ic_share"
+            app:key="shareApp"
+            app:title="Share this App!" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
