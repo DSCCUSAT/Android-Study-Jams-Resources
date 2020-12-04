@@ -18,6 +18,11 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
 - [Event Link](https://dsc.community.dev/events/details/developer-student-clubs-cochin-university-of-science-and-technology-presents-android-study-jams/#/)
 - [Recording of event (Upcoming)]()
 
+### Session 2 - Android basics, Activities, Views, ViewGroups, Dice Roller app. (03/12/20)
+- [Slides](https://docs.google.com/presentation/d/1PC7EZQMV5Pv6MATj1lU4LY7HXUaQ61YBA-qdifzo1m8/edit?usp=sharing)
+- [Event Link](https://dsc.community.dev/events/details/developer-student-clubs-cochin-university-of-science-and-technology-presents-android-study-jams-ii/#/)
+- [Recording of event (Upcoming)]()
+  
 ## FAQ
 - **What is the event about?**  
     Android Study Jams is a program hosted by Google DSC platform all around the world. This program is aimed to help you kick start your Android development career using Kotlin.
