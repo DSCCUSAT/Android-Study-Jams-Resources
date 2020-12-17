@@ -25,7 +25,7 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
   
 ### Session 3 - Accessing Internet, Saving Data, RecyclerViews, Jokes App. (18/12/20)
 - [Slides](https://docs.google.com/presentation/d/1M2d-GUiuKJNGb5LE-yPk7p5zfW6F3hV6nDFALQo0AqU/edit?usp=sharing)
-- [Event Link]()
+- [Event Link](https://dsc.community.dev/events/details/developer-student-clubs-cochin-university-of-science-and-technology-presents-android-study-jams-iii/#/)
 - [Recording of event (Upcoming)]()
 
 ## FAQ
