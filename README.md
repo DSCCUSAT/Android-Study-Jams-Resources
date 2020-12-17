@@ -16,13 +16,18 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
 ### Session 1 - Kotlin Introduction, Koans and Android Studio (28/11/20)
 - [Slides](https://docs.google.com/presentation/d/1OPBYkuMV2E_xey0hvmBe08-eGWSsWlh-ZzQxk7TP6Io/edit?usp=sharing)
 - [Event Link](https://dsc.community.dev/events/details/developer-student-clubs-cochin-university-of-science-and-technology-presents-android-study-jams/#/)
-- [Recording of event (Upcoming)]()
+- [Edited Recording of event](https://youtu.be/na9s_O8fFdA)
 
 ### Session 2 - Android basics, Activities, Views, ViewGroups, Dice Roller app. (03/12/20)
 - [Slides](https://docs.google.com/presentation/d/1PC7EZQMV5Pv6MATj1lU4LY7HXUaQ61YBA-qdifzo1m8/edit?usp=sharing)
 - [Event Link](https://dsc.community.dev/events/details/developer-student-clubs-cochin-university-of-science-and-technology-presents-android-study-jams-ii/#/)
-- [Recording of event (Upcoming)]()
+- [Edited Recording of event](https://youtu.be/PqlzD3pIqp4)
   
+### Session 3 - Accessing Internet, Saving Data, RecyclerViews, Jokes App. (18/12/20)
+- [Slides](https://docs.google.com/presentation/d/1M2d-GUiuKJNGb5LE-yPk7p5zfW6F3hV6nDFALQo0AqU/edit?usp=sharing)
+- [Event Link]()
+- [Recording of event (Upcoming)]()
+
 ## FAQ
 - **What is the event about?**  
     Android Study Jams is a program hosted by Google DSC platform all around the world. This program is aimed to help you kick start your Android development career using Kotlin.
@@ -33,6 +38,8 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
     * Certificate after completion of course.
     * Chance of getting your app featured by Google on their social media.
     * Get Ready for Google's Solution Challenge 2021
+- **When is the deadline for completing the course?**
+    You are to complete the course and submit the screenshot showing all the badges in your profile, along with the code and apk for an app you made during this event before the 26th of December. We'll be rolling out a form after the event where you can submit these details for your certificate.
 - **Is it Kotlin only of has Flutter/Java?**  
     This program is focussed on Native Android development on Kotlin only.
 - **What are the sessions about?**  
