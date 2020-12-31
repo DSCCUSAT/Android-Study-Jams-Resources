@@ -9,7 +9,8 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
 [Github Repository with Code and Previous session links](https://github.com/DSCCUSAT/Android-Study-Jams-Resources)   
 [Download Android Studio](developer.android.com/studio)  
 [Kotlin Playground](play.kotlinlang.org)  
-[Kotlin Koans](play.kotlinlang.org/koans/overview)
+[Kotlin Koans](play.kotlinlang.org/koans/overview)  
+[Event Recording playlist](https://www.youtube.com/playlist?list=PL8nhXta-RFnaBSIThL8ukNUmzxRXh8YgP)
 
 ## Sessions and references
 
@@ -26,7 +27,7 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
 ### Session 3 - Accessing Internet, Saving Data, RecyclerViews, Jokes App. (18/12/20)
 - [Slides](https://docs.google.com/presentation/d/1M2d-GUiuKJNGb5LE-yPk7p5zfW6F3hV6nDFALQo0AqU/edit?usp=sharing)
 - [Event Link](https://dsc.community.dev/events/details/developer-student-clubs-cochin-university-of-science-and-technology-presents-android-study-jams-iii/#/)
-- [Recording of event (Upcoming)]()
+- [Edited Recording of event](https://youtu.be/i1XyqXEI890)
 
 ## FAQ
 - **What is the event about?**  
@@ -39,7 +40,7 @@ Resources, links, recorded sessions and solutions from Android Study Jams progra
     * Chance of getting your app featured by Google on their social media.
     * Get Ready for Google's Solution Challenge 2021
 - **When is the deadline for completing the course?**
-    You are to complete the course and submit the screenshot showing all the badges in your profile, along with the code and apk for an app you made during this event before the 26th of December. We'll be rolling out a form after the event where you can submit these details for your certificate.
+    You are to complete the course and submit the screenshot showing all the badges in your profile, along with the code and apk for an app you made during this event before the 31st of December. We'll be rolling out a form after the event where you can submit these details for your certificate.
 - **Is it Kotlin only of has Flutter/Java?**  
     This program is focussed on Native Android development on Kotlin only.
 - **What are the sessions about?**  
